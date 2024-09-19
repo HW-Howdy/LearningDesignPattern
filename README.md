@@ -1,2 +1,2 @@
 # LearningDesignPattern
-Learning software design patterns using C++
+Learning software design patterns using C#
